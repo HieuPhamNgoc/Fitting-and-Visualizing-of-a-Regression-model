@@ -4,3 +4,5 @@
 - The project’s goal is to build a program which can be used to fit a regression model to a dataset and visualize the result, as well as assessing the model with mean squared error.
 - It supports two regression model: linear and quadratic regression. 
 - Users can modify the plot by changing the lines' and data points' color.
+
+## The programmed is built mostly on Scala.
